@@ -13,7 +13,7 @@ Publicly available government data covering the 2016, 2020, and 2024 election cy
 Excel, SAS, arcGIS
 
 ## Methods
-- Data cleaning
+- Data wrangling
 - Data visualization
 - Statistical Analysis
 
