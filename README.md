@@ -30,4 +30,4 @@ Excel, SAS, arcGIS
 Spreadsheets can open as is. To run my SAS code: ElectionDataPA.sas and ElectionResults.PA must be in the same folder. I named my folder "private", so the line that reads in the data should be changed to accomodate for your folder name. Run code line-by-line to obtain results.
 
 ## Notes
-Our main outcome for this project was an interactive map with our updated 2024 data on arcGIS online for general use in a course on Political Economy at my university. This is the source of many visualizations on X. Our map is linked here: https://bucknell.maps.arcgis.com/apps/mapviewer/index.html?webmap=cade0fe19ee5498eb5e5873a1596ca16
+Our main outcome for this project was an interactive map with our updated 2024 data on arcGIS online for general use in a course on Political Economy at my university. This is the source of many visualizations on FinalPresentation.pdf and ResearchPoster.pdf. Our map is linked here: https://bucknell.maps.arcgis.com/apps/mapviewer/index.html?webmap=cade0fe19ee5498eb5e5873a1596ca16
